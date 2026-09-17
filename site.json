@@ -1,7 +1,7 @@
 {
   "city": "Verona",
   "domain": "veronacarroattrezzi.it",
-  "brand": "SCALIGERA / STRADA",
+  "brand": "Scaligera Strada",
   "phone": null,
   "address": null,
   "email": "assistenza@veronacarroattrezzi.it",
@@ -14,5 +14,12 @@
     "Sommacampagna"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "signal"
+  "theme": "signal",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Insegna direzionale a punta, lettere slab e tre merli come interruzione della cornice.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }

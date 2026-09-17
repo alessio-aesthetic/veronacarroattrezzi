@@ -18,3 +18,7 @@ main{overflow:clip}.hero-copy,.story>div,.article>*{min-width:0}.hero h1,.inner-
 .hill .hero{min-height:730px}.hill .hero-copy{padding:0 0 35px 30px;border-left:4px solid var(--accent)}.hill .hero h1{font-size:95px}.hill .hero h1 span{color:#fff;display:inline-block;border-bottom:7px solid var(--accent);padding-bottom:8px}
 .signal .hero{min-height:760px}.signal .hero-copy{max-width:1350px}.signal .hero h1{font-size:96px}.signal .hero-copy .eyebrow{color:var(--accent);font-size:15px}.signal .hero h1 span{display:inline-block;border:3px solid var(--accent);border-radius:8px;padding:6px 22px;margin-top:12px}
 }
+
+/* SIGNATURE-BRAND-V2 START */
+header .brand,footer .brand{gap:0;display:inline-flex;flex-shrink:0;max-width:100%}header .brand img,footer .brand img{display:block;width:260px;height:auto;max-width:100%;object-fit:contain}header .brand img{max-height:78px}footer .brand img{width:285px;max-height:110px}.brand span{display:none}@media(max-width:900px) and (min-width:641px){header .brand img{width:235px}nav{gap:16px}}@media(max-width:640px){header .brand img{width:221px;max-height:65px}header{gap:18px}header .menu{flex-shrink:0}footer .brand img{width:260px}}
+/* SIGNATURE-BRAND-V2 END */
