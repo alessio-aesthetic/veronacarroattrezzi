@@ -1,0 +1,18 @@
+{
+  "city": "Verona",
+  "domain": "veronacarroattrezzi.it",
+  "brand": "SCALIGERA / STRADA",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@veronacarroattrezzi.it",
+  "nearby": [
+    "San Giovanni Lupatoto",
+    "San Martino Buon Albergo",
+    "Bussolengo",
+    "Pescantina",
+    "Villafranca di Verona",
+    "Sommacampagna"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "signal"
+}
